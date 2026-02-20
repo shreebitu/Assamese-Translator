@@ -5,15 +5,7 @@ Follow these steps to install and run the project locally on your computer.
 ### 1️⃣ Clone the repository
 
 ```
-git clone https://github.com/your-username/your-repository-name.git
-```
-
----
-
-### 2️⃣ Go to the project folder
-
-```
-cd your-repository-name
+git clone https://github.com/shreebitu/Assamese-Translator.git
 ```
 
 ---
