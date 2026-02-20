@@ -32,13 +32,11 @@ We are working to fix this issue as soon as possible.
 
 ## 📸 Preview
 
-*(Add your screenshot here)*
 
-Example path:
+Img Preview:
 
 ```
-/screenshots/app.png
-```
+img/preview img translator app.jpeg```
 
 ---
 
