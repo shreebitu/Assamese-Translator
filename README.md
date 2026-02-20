@@ -33,11 +33,12 @@ We are working to fix this issue as soon as possible.
 ## 📸 Preview
 
 
-Img Preview:
+Img Preview: ![Preview](img/preview.jpeg)
 
-```
 img/preview img translator app.jpeg```
 
+
+```
 ---
 
 ## 🚀 Installation
