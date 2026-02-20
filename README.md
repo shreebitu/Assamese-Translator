@@ -49,18 +49,7 @@ img/preview img translator app.jpeg```
 git clone https://github.com/shreebitu/Assamese-Translator.git
 ```
 
-### 2️⃣ Open project folder
-
-```bash
-cd Assamese-Translator
 ```
-
-### 3️⃣ Run the project
-
-Just open the `index.html` file in your browser.
-
-OR use VS Code Live Server for better experience.
-
 ---
 
 ## 💻 Usage
@@ -68,14 +57,6 @@ OR use VS Code Live Server for better experience.
 1. Enter text in input box
 2. Click translate button
 3. View translated output instantly
-
----
-
-## 🛠 Built With
-
-* HTML
-* CSS
-* JavaScript
 
 ---
 
@@ -102,10 +83,6 @@ Contributions are welcome ❤️
 4. Submit pull request
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License — you are free to use and modify.
 
 ---
 
